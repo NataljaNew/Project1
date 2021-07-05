@@ -19,5 +19,6 @@ public class Main {
         for (String element : result){
             System.out.println(element);
         }
+        System.out.println("....");
     }
 }
